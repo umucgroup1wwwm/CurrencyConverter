@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=mG6zPc-L85w
+https://www.dropbox.com/s/xh1j7wm06yo6rl5/CurrencyApp.zip?dl=0
+when jsp wont load jasper maven number can be wrong
+you have to change the controler and .jsp to at new link to a new page seel ocation in program with this->> <%--/////////////111111111////////////////////--%>
+
+There was an unexpected error (type=Internal Server Error, status=500).(mike this cam from the web browser AA11
+could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException:
+could not extract ResultSet
+^^this wasdue to reading a for loop to interate through a list with wrong data type
+in html code or wrong order
+vv this came from samr problem but from the console
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'currencyus0_.accountbalance' in 'field list'

@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bootsampleartid" />
+        <module name="CurrencyConverter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bootsampleartid" target="1.8" />
+      <module name="CurrencyConverter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
