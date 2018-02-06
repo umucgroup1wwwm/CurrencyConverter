@@ -1,5 +1,6 @@
-user = admin
-password = admin
+1)http://localhost:8080/
+2)user = admin
+3)password = admin
 this uses my sql with the currencydb.sql table structure
  the database/schema name should be = currencyuser
  the table should be = currencyuser_tb
