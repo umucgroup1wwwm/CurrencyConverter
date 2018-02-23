@@ -1,9 +1,0 @@
-Requires NodeJS version 8.9.4 - https://nodejs.org/en/
-NodeJS includes a package manager for additional libraries/modules - npm
-
-Requires table-scraper npm library
-From command line:
-	npm install table-scraper
-
-To run scraper from command line:
-	node scraperTest.js
